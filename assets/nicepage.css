@@ -9327,8 +9327,10 @@ section.u-image,
     flex: 34 0 56.66666667%;
   }
   .u-layout-row > .u-size-33-xl {
-    flex: 0 0 55%;
-    max-width: 55%;
+    /* flex: 0 0 55%; */
+    /* max-width: 55%; */
+    flex: 0 0 75%;
+    max-width: 75%;
   }
   .u-layout-col > .u-size-33-xl {
     flex: 33 0 55%;
